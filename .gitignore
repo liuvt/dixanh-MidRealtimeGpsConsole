@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MidRealtimeGpsConsole/package-lock.json
+/MidRealtimeGpsConsole/package.json
+/MidRealtimeGpsConsole/node_modules
+/MidRealtimeGpsConsole/.vs
+/MidRealtimeGpsConsole/bin
+/MidRealtimeGpsConsole/obj
